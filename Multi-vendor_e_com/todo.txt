@@ -1,0 +1,21 @@
+Todo
+    -DONE Create virtual env
+    -DONE Install and Setup
+    -DONE Init Database, Create Super user, Test Run
+    -DONE Create core app for base pages
+    -DONE Create app for UserProfiles
+    -DONE Create app for Products
+        -DONE Add category model, Products model
+    -DONE List out newest Products on the front page
+    -DONE Products detail view
+    -Category view
+    -Simple Search
+    -Vendors detail page
+    -Make it possible to Sign up, Login, Logout and Password reset.
+    -Create my account page (ami eita clear na kar account Vendors or mine)
+    -Add Products to the cart
+    -View cart
+    -Checkout
+    -Implement payment gateway.
+    -Admin pages for Vendors (this can be done befor add to cart)
+    -Deploy Project
