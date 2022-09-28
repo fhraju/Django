@@ -8,11 +8,13 @@ Todo
         -DONE Add category model, Products model
     -DONE List out newest Products on the front page
     -DONE Products detail view
-    -Category view
-    -Simple Search
-    -Vendors detail page
-    -Make it possible to Sign up, Login, Logout and Password reset.
-    -Create my account page (ami eita clear na kar account Vendors or mine)
+    -DONE Category view ( I did not have clear Idea I will try this after full project)
+    -DONE Show Vendor on Product detail page
+    -DONE Add images to Products
+    -DONE Vendors detail page
+    -DONE Make it possible to Sign up, Login, Logout and Password reset.
+    -DONE Create my account page (for now same myaccount page for both vendor and normal user)
+    -DONE Simple Search
     -Add Products to the cart
     -View cart
     -Checkout

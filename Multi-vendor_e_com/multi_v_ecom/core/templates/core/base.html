@@ -16,9 +16,22 @@
             <div class="logo">
                 <a class="text-2xl text-white" href="/">Multi Vendors Ecommerce</a>
             </div>
+
+            <div class="search">
+                <form method="get" action="/search/">
+                    <input type="search" name="query" placeholder="Search...">
+                    <button>Search</button>
+                </form>
+            </div>
+
             <div class="menu flex space-x-4">
                 {% menu %}
-
+                {% if request.user.is_authenticated %}
+                    <a href="{% url 'my_account' %}" class="text-white">My Account</a>
+                {% endif %}
+                {% if not request.user.is_authenticated %}
+                <a href="{% url 'login' %}" class="text-white">Login</a>
+                {% endif %}
             </div>
         </nav>
 
