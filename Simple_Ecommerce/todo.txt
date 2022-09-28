@@ -1,0 +1,13 @@
+01 -Project Setup & Templates
+    DONE Part 01: Configure App
+                step 01: Create a Virtual Environment
+                step 02: Create a Project
+                step 03: Create App and Add it in settings.py
+    Part 02: Templates
+    Part 03: Views & URLS
+    part 04: Static Files
+    part 05: Main Templates
+    part 06: Navbar
+    part 07: Store.html
+    part 08: Cart.html
+    part 09: Checkout.html
