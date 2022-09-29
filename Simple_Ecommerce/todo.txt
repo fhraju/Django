@@ -1,4 +1,4 @@
-01 -Project Setup & Templates
+01 -Project Setup & Templates:
     DONE Part 01: Configure App
                 step 01: Create a Virtual Environment
                 step 02: Create a Project
@@ -34,8 +34,10 @@
                 step 01: Layout
                 step 02: Cart Headers
                 step 03: Cart Rows
-    part 09: Checkout.html
-        step 01: Layout
-        step 02: Form
-        step 03: Payment Option
-        step 04: Order Summary
+    DONE part 09: Checkout.html
+                step 01: Layout
+                step 02: Form
+                step 03: Payment Option
+                step 04: Order Summary
+
+02 Project Data Structure:
