@@ -3,11 +3,39 @@
                 step 01: Create a Virtual Environment
                 step 02: Create a Project
                 step 03: Create App and Add it in settings.py
-    Part 02: Templates
-    Part 03: Views & URLS
-    part 04: Static Files
-    part 05: Main Templates
-    part 06: Navbar
-    part 07: Store.html
-    part 08: Cart.html
+    DONE Part 02: Templates
+                step 01: Create Folder
+                step 02: Create Templates
+    DONE Part 03: Views & URLS
+                step 01: Create Views
+                step 02: Create URLS
+                step 03: Base URLS Configuration
+    DONE part 04: Static Files
+                Step 01: "Static" Folder
+                step 02: CSS File
+                step 03: Configure in settings (STATICFILES_DIRS adding)
+                step 04: add Static Files to page
+                step 05: add image
+    DONE part 05: Main Templates
+                step 01: Add html boilarplate to main.html
+                step 02: Adding viewport & Static
+                step 03: Adding Bootstrap
+                step 04: Container/Navbar Placeholder
+                step 05: Inheriting
+    DONE part 06: Navbar
+                Step 01: Bootstrap Navbar
+                step 02: Dark Theme
+                step 03: Customize Navbar
+                step 04: Custom CSS
+    DONE part 07: Store.html
+                step 01: Layout
+                step 02: Placeholder content
+    DONE part 08: Cart.html
+                step 01: Layout
+                step 02: Cart Headers
+                step 03: Cart Rows
     part 09: Checkout.html
+        step 01: Layout
+        step 02: Form
+        step 03: Payment Option
+        step 04: Order Summary
