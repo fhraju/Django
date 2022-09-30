@@ -40,4 +40,29 @@
                 step 03: Payment Option
                 step 04: Order Summary
 
-02 Project Data Structure:
+02 -Project Data Structure:
+    DONE Part 01: Models
+                step 01: Import User Models
+                step 02: Customer Model
+                step 03: Product Order and OrderItem Model
+                step 04: Shipping Model
+                step 05: Migrate Database
+                step 06: admin.py
+    DONE Part 02: Render Products
+                step 01: Query Products
+                step 02: Render Products
+    DONE Part 03: Product Image Field
+                step 01: imagefield in Model
+                step 02: MEDIA_ROOT
+                step 03: MEDIA_URL
+                step 04: URLS.py Configuration
+                step 05: Render Images
+                step 06: Image Error Solution (1 image na thakle full page value error)
+    DONE Part 04: User Cart
+                step 01: Add Data (admin panel)
+                step 02: Query Data (Cart)
+                step 03: Render Data (cart.html)
+                step 04: Calculating Totals
+                step 05: Query Totals
+                step 06: Render Totals
+                step 07: Checkout page Data
