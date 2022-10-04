@@ -66,3 +66,61 @@
                 step 05: Query Totals
                 step 06: Render Totals
                 step 07: Checkout page Data
+
+03 -Project Site  Functionality:
+    DONE Part 01: Add to Cart  //If a product deleted after user add cart then an error called attribute error
+
+               step 01: Cart js
+               step 02: Add Event Handlers
+               step 03: Use Type Logic
+               step 04: UpdateItem View
+               step 05: updateuserorder()
+               step 06: CSRF Token
+               step 07: updateitem view logic
+               step 08: cart Total
+    DONE Part 02: Update Cart
+    
+    DONE part 03: Shipping Address
+               step 01: Shipping Methods
+               step 02: Order Shipping Status
+               step 03: Hide Shipping Form
+               step 04: Payment Option
+               step 05: Trigger Payment Action
+    DONE part 04: Checkout Form
+               step 01: Hede Form or Field
+               step 02: Form Data
+    DONE part 05: Process Order
+               step 01: Process Order View/URLS
+               step 02: Send Post Data
+               step 03: Transaction ID
+               step 04: Set Data
+               step 05: Confirm Total
+               step 06: Shipping Logic
+
+04 -Project Guest User Cart
+    DONE part 01: Set Cookie's
+               step 01: Create Cart
+               step 02: Adding/Removing Items
+    DONE part 02: Render Cart Total
+               step 01: Query Cart in views.py
+               step 02: Build Cart Total
+    DONE part 03: Build Order
+               step 01: Order Totals
+               step 02: Items QuerySet
+               step 03: Shipping Information
+               step 04: Product Does not Exist
+    DONE part 04: coockiecart() Funtion
+               step 01: utils.py
+               step 02: Copy Cart Logic
+               step 03: User Cookie cart in views
+    DONE part 05: cartData()
+               step 01: Create Function
+               step 02: move View Logic
+               step 03: User cartData() in Views
+    DONE part 06: Checkout
+               step 01: Clear Cart
+               step 02: Guest Checkout Logic
+               step 03: Create Guest Checkout Function
+               step 04: CleanUp Process Order view
+
+05 -Project Payment Integration
