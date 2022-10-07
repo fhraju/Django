@@ -123,4 +123,7 @@
                step 03: Create Guest Checkout Function
                step 04: CleanUp Process Order view
 
-05 -Project Payment Integration
+DONE 05 -Project Payment Integration
+    part 01: Buttons
+    part 02: Sandbox Account
+    part 03: Making Payments      
